@@ -110,5 +110,8 @@ The game map uses the following legend:
 ---
 
 ## How to Run
-1. Compile the code using a C++ compiler.
-2. Run the program and follow the on-screen menu for navigation.
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Zain-Rizwan/The-Quest-for-the-Crystal-Kingdom.git
+2. Compile the code using a C++ compiler.
+3. Run the program and follow the on-screen menu for navigation.
